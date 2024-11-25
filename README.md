@@ -12,4 +12,4 @@ Workflow-
 4. Now we will extract data based on genre='Action', duration < 90 & released_year: 1990 <= x <= 1999
 5. Count the number of movies as "short_movie_count"
 
-This project was done in DataLabs of DataCamp Platform
+A project from DataCamp Platform
